@@ -1,0 +1,30 @@
+h1 {
+    color: rgba(0, 255, 234, 0.808);
+}
+
+h2 {
+
+    color:rgba(3, 50, 206, 0.808)
+}
+
+.grid{
+
+    border: solid;
+
+display:flex;
+
+flex-wrap: wrap;
+
+justify-content: space-evenly;
+
+}
+
+.header{
+
+ background-color: deepskyblue;
+
+display:flex;
+
+justify-content: space-around;
+
+}
